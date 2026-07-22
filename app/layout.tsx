@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Classic Snake",
+  title: "Our Games",
   description:
-    "Classic Snake — a modern take on the arcade classic. 20 levels of power-ups and escalating hazards.",
+    "Free mobile games for Android — with privacy policies and support information.",
 };
 
 export default function RootLayout({
